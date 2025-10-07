@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Lightbox from "@/components/Lightbox"; // ✅ นำเข้า Lightbox ของคุณ
 
-export default function devContent() {
+export default function DevContent() {
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState<{
     src: string;
@@ -79,8 +79,8 @@ export default function devContent() {
         ในนี้จะเป็นเนื้อหาต่างๆที่มีอยู่ในเกม Astral Party
         เกมนี้คือคือเกมปาร์ตี้แบบผู้เล่นหลายคน
         โดยที่ตัวละครจะเป็นอนิเมะสุดน่ารัก! เกมเน้นวางแผนทักษะ, การ์ด,
-        สกิลตัวละคร และทอยลูกเต๋าเพื่อสร้าง "ทำลาย" มิตรภาพในเกมกระดานนี้
-        โหมดจะมีให้เลือก 2 โหมด PVP กับ PVE
+        สกิลตัวละคร และทอยลูกเต๋าเพื่อสร้าง &quot;ทำลาย&quot;
+        มิตรภาพในเกมกระดานนี้ โหมดจะมีให้เลือก 2 โหมด PVP กับ PVE
       </p>
       <br />
       <div
