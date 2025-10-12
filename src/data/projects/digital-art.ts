@@ -12,6 +12,10 @@ const digitalArtProject: Project = {
     { src: "/art/Pink Cat.png", alt: "Pink Cat" },
     { src: "/art/Samurai girl.png", alt: "Samurai girl" },
     { src: "/art/Alice Rabbit.png", alt: "Alice Rabbit" },
+    {
+      src: "/art/Wolf Unit Military Force.png",
+      alt: "Wolf Unit Military Force",
+    },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
