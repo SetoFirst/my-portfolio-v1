@@ -16,6 +16,7 @@ const digitalArtProject: Project = {
       src: "/art/Wolf Unit Military Force.png",
       alt: "Wolf Unit Military Force",
     },
+    { src: "/art/Rin Koen Fox Girl.png", alt: "Rin Koen (Fox Girl)" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
