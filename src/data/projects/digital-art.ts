@@ -17,6 +17,7 @@ const digitalArtProject: Project = {
       alt: "Wolf Unit Military Force",
     },
     { src: "/art/Rin Koen Fox Girl.png", alt: "Rin Koen (Fox Girl)" },
+    { src: "/art/Ananta Game Taffy.png", alt: "Ananta Game (Taffy)" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
