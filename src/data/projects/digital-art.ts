@@ -18,6 +18,7 @@ const digitalArtProject: Project = {
     },
     { src: "/art/Rin Koen Fox Girl.png", alt: "Rin Koen (Fox Girl)" },
     { src: "/art/Ananta Game Taffy.png", alt: "Ananta Game (Taffy)" },
+    { src: "/art/Lolita in Halloween.png", alt: "Lolita in Halloween" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
