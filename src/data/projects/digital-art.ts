@@ -8,7 +8,6 @@ const digitalArtProject: Project = {
                 ด้วยเครื่องมือที่ทันสมัย และเครื่องมือต่างๆ ที่ช่วยในการทำงานได้เร็วขึ้น`,
   profile: "/profiles/Morning_Coffee.png",
   images: [
-    { src: "/art/Morning_Coffee.png", alt: "Morning Coffee" },
     { src: "/art/Pink Cat.png", alt: "Pink Cat" },
     { src: "/art/Samurai girl.png", alt: "Samurai girl" },
     { src: "/art/Alice Rabbit.png", alt: "Alice Rabbit" },
