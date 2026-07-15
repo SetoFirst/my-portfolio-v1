@@ -6,7 +6,7 @@ const digitalArtProject: Project = {
   title: "Digital Art Collection",
   description: `ผลงานภาพวาดดิจิทัลที่สร้างด้วย Clip Studio Paint เป็นเครื่องมือที่ช่วยในการออกแบบวาดภาพ
                 ด้วยเครื่องมือที่ทันสมัย และเครื่องมือต่างๆ ที่ช่วยในการทำงานได้เร็วขึ้น`,
-  profile: "/profiles/Morning_Coffee.png",
+  profile: "/art/The dragon girl is lying down reading a book.png",
   images: [
     { src: "/art/Pink Cat.png", alt: "Pink Cat" },
     { src: "/art/Samurai girl.png", alt: "Samurai girl" },
@@ -22,6 +22,10 @@ const digitalArtProject: Project = {
     {
       src: "/art/Staircase between buildings.png",
       alt: "Staircase between buildings",
+    },
+    {
+      src: "/art/The dragon girl is lying down reading a book.png",
+      alt: "The dragon girl is lying down reading a book",
     },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
