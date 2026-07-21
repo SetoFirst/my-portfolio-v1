@@ -27,6 +27,7 @@ const digitalArtProject: Project = {
       src: "/art/The dragon girl is lying down reading a book.png",
       alt: "The dragon girl is lying down reading a book",
     },
+    { src: "/art/Violetta.png", alt: "Violetta" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
