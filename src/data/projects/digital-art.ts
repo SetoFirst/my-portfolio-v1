@@ -32,6 +32,10 @@ const digitalArtProject: Project = {
       src: "/art/Sea view with Violetta.png",
       alt: "Sea view with Violetta",
     },
+    {
+      src: "/art/My novelist is the Demon Lord.png",
+      alt: "My novelist is the Demon Lord",
+    },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
