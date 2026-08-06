@@ -37,6 +37,7 @@ const digitalArtProject: Project = {
       alt: "My novelist is the Demon Lord",
     },
     { src: "/art/Amber.png", alt: "Amber" },
+    { src: "/art/Ibara.png", alt: "Ibara" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
