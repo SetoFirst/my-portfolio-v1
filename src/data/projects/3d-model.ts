@@ -53,10 +53,17 @@ const modelProject: Project = {
     { src: "/models/Wacom.jpg", alt: "Wacom" },
     { src: "/models/Little Cat Warrior.jpg", alt: "Little Cat Warrior" },
     { src: "/models/Pistol.jpg", alt: "Pistol" },
+    {
+      src: "/models/Elaina Wandering Witch.png",
+      alt: "Elaina Wandering Witch",
+    },
+    { src: "/models/Blue Girl.png", alt: "Blue Girl" },
+    { src: "/models/Ibara.png", alt: "Ibara" },
   ],
   video: [
     { src: "/video/video2.mp4", alt: "Character Model 1" },
     { src: "/video/video3.mp4", alt: "Character Model 2" },
+    { src: "/video/video4.mp4", alt: "Character Model 3" },
     { src: "/video/model_video.mp4", alt: "Fantasy weapons" },
   ],
   tags: ["Modeling", "Blender", "Substance 3D Painter"],
