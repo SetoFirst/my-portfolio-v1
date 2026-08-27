@@ -63,7 +63,7 @@ const modelProject: Project = {
   video: [
     { src: "/video/video2.mp4", alt: "Character Model 1" },
     { src: "/video/video3.mp4", alt: "Character Model 2" },
-    { src: "/video/video4.mp4", alt: "Character Model 3" },
+    { src: "/video/video5.mp4", alt: "Character Model 3" },
     { src: "/video/model_video.mp4", alt: "Fantasy weapons" },
   ],
   tags: ["Modeling", "Blender", "Substance 3D Painter"],
