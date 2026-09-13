@@ -38,6 +38,7 @@ const digitalArtProject: Project = {
     },
     { src: "/art/Amber.png", alt: "Amber" },
     { src: "/art/Ibara.png", alt: "Ibara" },
+    { src: "/art/BlueSoul.png", alt: "BlueSoul" },
   ],
   tags: ["Digital Art", "Illustration", "Clip Studio Paint"],
 };
