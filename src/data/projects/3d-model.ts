@@ -8,6 +8,7 @@ const modelProject: Project = {
                 ที่มีส่วนช่วยในการสร้าง สี, พื้นผิว ของตัวโมเดล ให้ดูสวยและสมจริงมากยิ่งขึ้น`,
   profile: "/profiles/Pistol.jpg",
   images: [
+    { src: "/models/Buildings.png", alt: "Buildings" },
     { src: "/models/Ibara.png", alt: "Ibara" },
     { src: "/models/Blue Girl.png", alt: "Blue Girl" },
     {
