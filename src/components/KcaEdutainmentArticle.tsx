@@ -51,6 +51,14 @@ export default function KcaEdutainmentArticle() {
       <p className="text-xl font-bold">
         สำหรับผลงานอื่นๆเพิ่มเติมสามารถติดต่อสอบถามได้ครับ
       </p>
+      <br />
+
+      <p className="text-3xl font-bold text-emerald-700">เรื่องอื่นเพิ่มเติม</p>
+      <img
+        src="/kca/more.jpg"
+        alt="more"
+        className="rounded-lg my-4 w-full max-w-2xl"
+      />
     </article>
   );
 }
